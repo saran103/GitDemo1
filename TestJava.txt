@@ -1,1 +1,4 @@
-1)Inital code in the file. Only developer 1 going to on this component.
+
+1)Inital code in the file. Both developer 1 and developer 2 are going to on this component.
+2) Developer 1 worked on this component and made changes in develop2 branch
+
